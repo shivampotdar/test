@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("Success!");
+printf("ola");
 return 0;
 }
