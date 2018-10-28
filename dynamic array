@@ -11,6 +11,7 @@ printf("%d\n",*(p+i));
 
 }
 
+//nice program
 
 int main()
 {
@@ -26,5 +27,11 @@ for(int i=0;i<n;i++)
 scanf("%d",p+i);
 }
 display(p,n);
+
+//make all zero
+for(int i=0;i<n;i++)
+{
+}
+
 return 0;
 }
